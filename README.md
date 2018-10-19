@@ -2,10 +2,13 @@
 **Always reminds you how important time is!**
 
 ![Timer](https://github.com/trulyspinach/unity-countdown/blob/master/images/timer.png)
+**You have a Unity Pro with beautiful dark theme? Don't worry dark theme is also supported!**
 
 Have you ever attend a Hackathon or GameJam event with Unity?
 
 Use this plugin to keep your time count!
+
+
 
 ## Usage
 ### Install

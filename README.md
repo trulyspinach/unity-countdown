@@ -1,25 +1,28 @@
 # unity-countdown
 **Always reminds you how important time is!**
 
-![Timer](https://github.com/trulyspinach/unity-countdown/blob/master/images/timer.png)
-**You have a Unity Pro with beautiful dark theme? Don't worry dark theme is also supported!**
-
 Have you ever attend a Hackathon or GameJam event with Unity?
 
 Use this plugin to keep your time count!
 
+![Timer](https://github.com/trulyspinach/unity-countdown/blob/master/images/timer.png)
+**You have an Unity Pro with beautiful dark theme? Don't worry it is also supported!**
 
 
 ## Usage
+
 ### Install
+
 1. Download the .unitypackage file and import it into your project. 
 2. Done!
 
 ### Customize
+
 Since your time is important, I designed this to be extremely easy to use.
 
 All settings can be done just in Unity's preference menu. 
-If you can open this menu, you can customize!!
+
+If you can open this menu, then you can customize!!
 
 ![Prefernece](https://github.com/trulyspinach/unity-countdown/blob/master/images/preference.png)
 
